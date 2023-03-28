@@ -7,4 +7,4 @@
 I'm a data science and artificial intelligence student at UFPB.
 
 ### Experience
-Intern in Data analystc at iFood (2022-present)
+##### Intern in Data analystc at iFood (2022-present)
